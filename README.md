@@ -1,4 +1,4 @@
-<img src="ai555.png" alt="GitHub Banner" width="100%" />
+
 
 #  IF U GO BLACK, U WILL NOT BE BACK
 <picture>
